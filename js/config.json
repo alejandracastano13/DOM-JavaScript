@@ -1,0 +1,11 @@
+{
+    "_comment": "Primero crear un archivo json,",
+    "_comment2": "Js/01-crear-codigo-html-desde-js.js",
+    "_comment1": "js/03-seleccionar-elementos-y-asociar-eventos.js",
+    "_comment4": "js/04-eventos-inputs-text-area.js",
+    "_comment5":"js/05-form-api.js",
+    "_comment6": "js/09-keys-locked.js",
+    "_comment7": "js/10-block-numbers.js",
+    "_coomment8": "js/11-allow-numbers-and-block-letters.js",
+    "script": "js/12-field-event.js"
+}
